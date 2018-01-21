@@ -1,4 +1,4 @@
-function Scooter(name, age, hometown) {
+function Scooter(year, color, model) {
   this.year = year
   this.color = color
   this.model = model
